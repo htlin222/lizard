@@ -1,0 +1,23 @@
+project:
+  output-dir: _output
+author:
+  - name: Bill Gates
+    email: bill@gates.com
+date: today
+format:
+  revealjs:
+    theme: theme.scss
+    number-depth: 1
+    number-sections: true
+    height: 900
+    width: 1600
+    highlight-style: a11y
+    slide-number: true
+    code-line-numbers: false
+    code-copy: hover
+    # logo: https://i.imgur.com/W8Z8w22.png
+    progress: true
+    mouse-wheel: true
+
+
+
